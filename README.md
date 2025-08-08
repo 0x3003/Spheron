@@ -67,6 +67,7 @@ docker compose -f ~/.spheron/fizz/docker-compose.yml logs -f
 
 > Fazla detay ekleyemedim şimdilik bu kadar, eksik varsa sabah/gece düzenlerim. Yorumsuz bir repo için üzgünüm gn.
 
+git push
 
 
 
